@@ -9,3 +9,11 @@
 .text-logo {
   font-size: 2rem;
 }
+
+#search-hotel {
+  padding-left: calc(2rem + 8px);
+}
+
+.bi-search {
+  margin-left: 1rem;
+}
