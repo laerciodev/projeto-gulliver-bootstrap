@@ -2,6 +2,10 @@
   height: 58px;
 }
 
-.aside-covid .content-text {
-  height: 100%;
+.header.container {
+  height: 60px;
+}
+
+.text-logo {
+  font-size: 2rem;
 }
