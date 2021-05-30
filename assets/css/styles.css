@@ -17,3 +17,30 @@
 .bi-search {
   margin-left: 1rem;
 }
+
+.container-title {
+  height: 60px;
+}
+
+.title-hotel,
+.title-rating,
+.title-address,
+.address {
+  font-size: 1rem;
+  margin-top: 1rem;
+}
+
+.container-how-to-get {
+  font-size: 0.875rem;
+  margin-top: 1rem;
+}
+
+.container-address {
+  max-width: 250px;
+}
+
+.bi-star-fill,
+.bi-star {
+  font-size: 1.5rem;
+  cursor: pointer;
+}
