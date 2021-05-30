@@ -44,3 +44,17 @@
   font-size: 1.5rem;
   cursor: pointer;
 }
+
+@media (max-width: 768px) {
+  .aside-covid {
+    text-align: center;
+  }
+
+  .row.list-hotel > li {
+    text-align: center;
+  }
+
+  .container-address {
+    margin: 0 auto;
+  }
+}
