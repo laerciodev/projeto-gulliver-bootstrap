@@ -9,10 +9,12 @@ body {
   font-family: "Roboto", sans-serif;
   height: 100%;
   overflow-x: hidden;
+  color: var(--hof);
 }
 
 .aside-covid {
   height: 58px;
+  background-color: var(--foggy) !important;
 }
 
 .header.container {
@@ -46,16 +48,20 @@ body {
 .container-how-to-get {
   font-size: 0.875rem;
   margin-top: 1rem;
+  color: var(--babu) !important;
 }
 
 .container-address {
   max-width: 250px;
 }
 
-.bi-star-fill,
-.bi-star {
+.bi-star-fill {
   font-size: 1.5rem;
   cursor: pointer;
+}
+
+.footer {
+  background-color: var(--hof) !important;
 }
 
 @media (max-width: 768px) {
